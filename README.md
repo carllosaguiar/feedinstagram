@@ -16,7 +16,7 @@ Esse `App` tem como objetivo criar uma exibição do **Feed do Instagram** usand
 Além disso, utilizei a API de imagens da minha conta pessoal do instagram para usar como referência.
 
 ## Layout
-![Login](https://github.com/carllosaguiar/feedinstagram/blob/master/images/login.jpeg =100x20?raw=true)       
+![Login|20%](https://github.com/carllosaguiar/feedinstagram/blob/master/images/login.jpeg?raw=true)       
 ![Signup | 20%](https://github.com/carllosaguiar/feedinstagram/blob/master/images/signup.jpeg?raw=true)       
 
 ![Select Image | 20%](https://github.com/carllosaguiar/feedinstagram/blob/master/images/select-image.jpeg?raw=true)    
