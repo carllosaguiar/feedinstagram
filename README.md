@@ -3,6 +3,7 @@
 ## TOC
 
 [Apresentação](#apresentação)   
+[Layout](#layout)
 [Requisitos](#requisitos)   
 [Credenciais](#credenciais)     
 [Ambiente](#ambiente)   
@@ -13,6 +14,14 @@
 Esse `App` tem como objetivo criar uma exibição do **Feed do Instagram** usando banco de dados **Firebase**.
 
 Além disso, utilizei a API de imagens da minha conta pessoal do instagram para usar como referência.
+
+## Layout
+![Login](https://github.com/carllosaguiar/feedinstagram/blob/master/images/login.jpeg?raw=true)
+![Signup](https://github.com/carllosaguiar/feedinstagram/blob/master/images/signup.jpeg?raw=true)       
+
+![Select Image](https://github.com/carllosaguiar/feedinstagram/blob/master/images/select-image.jpeg?raw=true)
+![Write Post](https://github.com/carllosaguiar/feedinstagram/blob/master/images/write-post.jpeg?raw=true)
+![View Post](https://github.com/carllosaguiar/feedinstagram/blob/master/images/view-post.jpeg?raw=true)
 
 ## Requisitos
 Para que você possa rodar esse app em seu ambiente local, use `Redux` como gerenciador de estados para nossa aplicação, `React Native Router Flux` como roteador para as sessões de execução dos componentes do nosso app, além de utilizar os Ícones vetoriais para deixá-lo bonito.
